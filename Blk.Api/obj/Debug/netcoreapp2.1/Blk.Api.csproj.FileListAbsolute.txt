@@ -1,0 +1,14 @@
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\bin\Debug\netcoreapp2.1\Blk.Api.deps.json
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\bin\Debug\netcoreapp2.1\Blk.Api.runtimeconfig.json
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\bin\Debug\netcoreapp2.1\Blk.Api.runtimeconfig.dev.json
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\bin\Debug\netcoreapp2.1\Blk.Api.dll
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\bin\Debug\netcoreapp2.1\Blk.Api.pdb
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.csproj.CoreCompileInputs.cache
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.RazorAssemblyInfo.cache
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.RazorAssemblyInfo.cs
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.AssemblyInfoInputs.cache
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.AssemblyInfo.cs
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.RazorTargetAssemblyInfo.cache
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.dll
+C:\Users\WooCode\source\repos\Blk.Api\Blk.Api\obj\Debug\netcoreapp2.1\Blk.Api.pdb
